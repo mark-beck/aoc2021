@@ -1,4 +1,0 @@
-(executable
- (public_name smoke_basin)
- (name main)
- (libraries smoke_basin core))
